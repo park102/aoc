@@ -1,0 +1,9 @@
+RL
+
+AAA = (BBB, CAB)
+BBB = (DDD, EEE)
+CAB = (ZZZ, GGG)
+DDD = (DDD, DDD)
+EEE = (EEE, EEE)
+GGG = (GGG, GGG)
+ZZZ = (ZZZ, ZZZ)
